@@ -1,0 +1,9 @@
+{
+  "asset": "USD/INR",
+  "generated_at": "2026-05-19T17:24:02+00:00",
+  "start_date": "1980-01-02",
+  "end_date": "2026-05-19",
+  "row_count": 11985,
+  "source": "Investing.com financialdata historical API",
+  "status": "ok"
+}
